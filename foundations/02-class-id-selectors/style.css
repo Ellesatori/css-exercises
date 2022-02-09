@@ -1,0 +1,18 @@
+.alpha {
+  background-color: rgb(240, 158, 219);
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#two {
+  color: rgb(37, 155, 209);
+  font-size: 36px;
+}
+.cooler {
+  font-size: 24px;
+}
+
+#four {
+  background-color: rgb(152, 235, 104);
+  font-size: 24px;
+  font-weight: bold;
+}
